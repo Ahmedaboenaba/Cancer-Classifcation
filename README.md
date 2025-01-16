@@ -7,9 +7,4 @@ Dataset URL: https://zenodo.org/records/14555794
 Also, it can be found on kaggle
 
 # Citation: 
-@article{zamanitajeddin2024benchmarking,
-  title={Benchmarking Domain Generalization Algorithms in Computational Pathology},
-  author={Zamanitajeddin, Neda and Jahanifar, Mostafa and Xu, Kesi and Siraj, Fouzia and Rajpoot, Nasir},
-  journal={arXiv preprint arXiv:2409.17063},
-  year={2024}
-}
+Zamanitajeddin, N., Jahanifar, M., siraj, . fouzia ., & Rajpoot, N. (2024). HISTOPANTUME: Histological Pan-cancer Tumor image dataset (0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14555794
