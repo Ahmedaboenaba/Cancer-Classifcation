@@ -3,7 +3,7 @@ This repository aims to apply classification on some kinds of cancer diseases:
 1- **Ovarian Cancer Classification**                                                                                                                                 
 2- **Stomach Cancer Classification**   
 
-Dataset URL: https://zenodo.org/records/14555794
+Dataset URL: https://zenodo.org/records/14555794                                                                                              
 Also, it can be found on kaggle
 
 # Citation: 
